@@ -20,9 +20,12 @@
         <tr>
             <td><a href="https://github.com/MAINER4IK/windofrar">windofrar</a> - Активатор продуктов Microsoft</td>
             <td><a href="https://github.com/MAINER4IK/SickoPolar">SickoPolar</a> - Функциональные Читы Among Us</td>
-            <a href="https://github.com/MAINER4IK/Xneon-Launcher"</a> - Функциональные Читы Among Us</td>
         </tr>
     </table>
+    <p align="center">
+        <a href="https://github.com/MAINER4IK/Xneon-Launcher">
+            <div style="border: 1px solid #ccc; padding: 10px; display: inline-block;">
+                Xneon-Launcher - Простой лаунчер Minecraft
             </div>
         </a>
     </p>
