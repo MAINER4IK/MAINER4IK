@@ -1,3 +1,16 @@
+<style>
+    table {
+        border-collapse: collapse;
+        width: 80%;
+        margin: 0 auto;
+    }
+    td {
+        border: 1px solid #ccc; /* Цвет рамки */
+        padding: 10px; /* Отступы внутри ячейки */
+        text-align: center; /* Выравнивание текста по центру */
+    }
+</style>
+
 <div align="center">
     <h3>Привет 👋, я <a href="https://github.com/MAINER4IK">MAINER4IK</a></h3>
     <p align="center">
@@ -22,7 +35,7 @@
             <td><a href="https://github.com/MAINER4IK/SickoPolar">SickoPolar</a> - Функциональные Читы Among Us</td>
         </tr>
         <tr>
-            <td colspan="2" style="text-align: center;"><a href="https://github.com/MAINER4IK/Xneon-Launcher">Xneon-Launcher</a> - Простой лаунчер Minecraft</td>
+            <td colspan="2"><a href="https://github.com/MAINER4IK/Xneon-Launcher">Xneon-Launcher</a> - Простой лаунчер Minecraft</td>
         </tr>
     </table>
 </div>
