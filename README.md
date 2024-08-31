@@ -2,7 +2,7 @@
     <h3>Привет 👋, я <a href="https://github.com/MAINER4IK">MAINER4IK</a></h3>
     <p align="center">
         <a href="https://github.com/MAINER4IK">
-            <img src="https://avatars.githubusercontent.com/u/MAINER4IK?s=200&v=4" width="50"/>
+            <img src="[https://avatars.githubusercontent.com/u/MAINER4IK](https://cdn.discordapp.com/attachments/610843993659539459/1279382638825570305/icon.gif?ex=66d43d6e&is=66d2ebee&hm=4a4cfd7550ceb69333ccf4392f998dd7a7d11e578f8fe64710722366c0f054b6&)?s=200&v=4" width="50"/>
         </a>
     </p>
     <p align="center">
