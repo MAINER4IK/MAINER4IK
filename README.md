@@ -22,7 +22,7 @@
             <td><a href="https://github.com/MAINER4IK/SickoPolar">SickoPolar</a> - Функциональные Читы Among Us</td>
         </tr>
     </table>
-    <table align="center" border="1">
+    <table align="center">
         <tr>
             <td><a href="https://github.com/MAINER4IK/Xneon-Launcher">Xneon-Launcher</a> - Простой лаунчер Minecraft</td>
         </tr>
