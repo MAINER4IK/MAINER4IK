@@ -1,16 +1,3 @@
-<style>
-    table {
-        border-collapse: collapse;
-        width: 80%;
-        margin: 0 auto;
-    }
-    td {
-        border: 1px solid #ccc; /* Цвет рамки */
-        padding: 10px; /* Отступы внутри ячейки */
-        text-align: center; /* Выравнивание текста по центру */
-    }
-</style>
-
 <div align="center">
     <h3>Привет 👋, я <a href="https://github.com/MAINER4IK">MAINER4IK</a></h3>
     <p align="center">
