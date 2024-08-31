@@ -23,6 +23,10 @@
         </tr>
     </table>
     <p align="center">
-        <a href="https://github.com/MAINER4IK/Xneon-Launcher">Xneon-Launcher</a> - Простой лаунчер Minecraft
+        <a href="https://github.com/MAINER4IK/Xneon-Launcher">
+            <div style="border: 1px solid #ccc; padding: 10px; display: inline-block;">
+                Xneon-Launcher - Простой лаунчер Minecraft
+            </div>
+        </a>
     </p>
 </div>
