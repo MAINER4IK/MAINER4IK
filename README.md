@@ -2,7 +2,7 @@
     <h3>Привет 👋, я <a href="https://github.com/MAINER4IK">MAINER4IK</a></h3>
     <p align="center">
         <a href="https://github.com/MAINER4IK">
-            <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?s=200&v=4" width="50"/>
+            <img src="https://avatars.githubusercontent.com/u/MAINER4IK?s=200&v=4" width="50"/>
         </a>
     </p>
     <p align="center">
