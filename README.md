@@ -15,14 +15,14 @@
         <a href="https://github.com/MAINER4IK/MAINER4IK/blob/main/README_PTBR.md"><span>Português</span></a>
     </p>
     <p>🌟 Добро пожаловать в мой уголок вселенной кодирования! 🌟</p>
-    <h4 align="left">Мои Проекты</h4>
+    <h4 align="left">Мои Open Source проекты</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/MAINER4IK/windofrar</a> - Активатор продуктов Microsoft</td>
-            <td><a href="https://github.com/MAINER4IK/Si">YOUR_PROJECT_2</a> - Функциональные Читы Among Us</td>
+            <td><a href="https://github.com/MAINER4IK/windofrar">windofrar</a> - Активатор продуктов Microsoft</td>
+            <td><a href="https://github.com/MAINER4IK/SickoPolar">SickoPolar</a> - Функциональные Читы Among Us</td>
         </tr>
     </table>
     <p align="center">
-        <a href="https://github.com/MAINER4IK/YOUR_PROJECT_3">YOUR_PROJECT_3</a> - Простой лаунчер Minecraft
+        <a href="https://github.com/MAINER4IK/Xneon-Launcher">Xneon-Launcher</a> - Простой лаунчер Minecraft
     </p>
 </div>
