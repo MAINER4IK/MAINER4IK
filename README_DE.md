@@ -6,8 +6,8 @@
         </a>
     </p>
     <p align="center">
-        <a href="https://github.com/MAINER4IK/MAINER4IK/blob/main/README_RU.md"><span>Russisch</span></a>|
-        <a href="https://github.com/MAINER4IK/MAINER4IK/blob/main/README.md"><span>Englisch</span></a>|
+        <a href="https://github.com/MAINER4IK/MAINER4IK/blob/main/README.md"><span>Russisch</span></a>|
+        <a href="https://github.com/MAINER4IK/MAINER4IK/blob/main/README_ENG.md"><span>Englisch</span></a>|
         <a href="https://github.com/MAINER4IK/MAINER4IK/blob/main/README_UA.md"><span>Ukrainisch</span></a>|
         <a href="https://github.com/MAINER4IK/MAINER4IK/blob/main/README_DE.md"><span>Deutsch</span></a>
     </p>
