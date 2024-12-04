@@ -25,7 +25,7 @@
         </tr>
     </tbody></table>
     <br>
-    <a href="https://discord.com/users/:id">
-        <img src="https://lanyard.cnrad.dev/api/:id" alt="Discord Presence">
+    <a href="https://discord.com/users/610841770833608745">
+        <img src="https://lanyard.cnrad.dev/api/610841770833608745" alt="Discord Presence">
     </a>
 </div>
